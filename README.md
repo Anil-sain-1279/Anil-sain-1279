@@ -65,11 +65,3 @@
 
 </a>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyansh4Ai&theme=matrix" alt="GitHub Trophies"/>
-</p>
-
-<h3>📈 Activity Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh4Ai&theme=github-dark&area=true&hide_border=true" height="250" alt="Activity Graph"/>
-</div>
