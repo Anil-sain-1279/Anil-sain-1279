@@ -45,3 +45,99 @@
 
 
 }
+
+
+<hr/>
+
+<h2 align="center">✂️ Languages • Frameworks • Tools ✂️</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,java,javascript,github,python,mongodb&perline=3" alt="skills" />  
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,git,r&perline=3" alt="skills2" />
+</div>
+
+<hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+
+<hr/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<p align="center">
+<div align="center">
+
+  <!-- 🔥 Streak Stats -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+@@ -88,27 +89,41 @@
+      width="390"
+    />
+  </picture>
+</p>
+
+  <br/><br/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=ProgrammerVrushabh&show_icons=true&theme=react&rank_icon=github&border_radius=10#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=ProgrammerVrushabh&show_icons=true&theme=default&rank_icon=github&border_radius=10#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)" />
+    <img width="390" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ProgrammerVrushabh&show_icons=true&theme=react&border_radius=10" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVrushabh&layout=compact&theme=react&border_radius=10#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVrushabh&layout=compact&theme=default&border_radius=10#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)" />
+    <img width="390" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVrushabh&layout=compact&theme=react&border_radius=10" />
+  </picture>
+
+  <!-- 📊 GitHub Stats + Top Languages Side-by-Side -->
+  <div align="center">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api?username=ProgrammerVrushabh&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats.vercel.app/api?username=ProgrammerVrushabh&show_icons=true&theme=default&rank_icon=github&border_radius=10" 
+      />
+      <img 
+        width="390" 
+        alt="GitHub stats" 
+        src="https://github-readme-stats.vercel.app/api?username=ProgrammerVrushabh&show_icons=true&theme=react&border_radius=10" 
+      />
+    </picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVrushabh&layout=compact&theme=react&border_radius=10" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVrushabh&layout=compact&theme=default&border_radius=10" 
+      />
+      <img 
+        width="390" 
+        alt="Top languages" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVrushabh&layout=compact&theme=react&border_radius=10" 
+      />
+  </div>
+
+</div>
+
+<br/><br/>
